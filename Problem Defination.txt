@@ -1,0 +1,20 @@
+#prblem statement: 
+-Build and Host the website for all employee to:- 
+-Dispaly All or list the information of Corporate customer..
+-With Info they want to show the customer accounting information.
+-and this website built and host in public cloud or google cloud.
+-as per the Accounting info manage the Account related operations
+-so we can display all the info of thier Corporate customer wich is collected
+ from their all offices..
+-employee need to login first and then access all the accounting related information
+-if there is invalid login then show the error and redirect to login page
+
+#Functional Requirement:
+-employee have to login  
+-if invalid then show error
+-display all Accounting info to valid employee
+
+#Non-functional Requirement:
+-At the time of login Authnticate Employee for valid or invalid
+-if invalid then show error
+-if valid then show the detail from fetching Account table
